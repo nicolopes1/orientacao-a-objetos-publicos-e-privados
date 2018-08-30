@@ -1,0 +1,7 @@
+C:\Users\nicol\source\repos\aula-12-orientacao-a-objetos-publicos-e-privados\aula-12-orientacao-a-objetos-publicos-e-privados\bin\Debug\aula-12-orientacao-a-objetos-publicos-e-privados.exe.config
+C:\Users\nicol\source\repos\aula-12-orientacao-a-objetos-publicos-e-privados\aula-12-orientacao-a-objetos-publicos-e-privados\bin\Debug\aula-12-orientacao-a-objetos-publicos-e-privados.exe
+C:\Users\nicol\source\repos\aula-12-orientacao-a-objetos-publicos-e-privados\aula-12-orientacao-a-objetos-publicos-e-privados\bin\Debug\aula-12-orientacao-a-objetos-publicos-e-privados.pdb
+C:\Users\nicol\source\repos\aula-12-orientacao-a-objetos-publicos-e-privados\aula-12-orientacao-a-objetos-publicos-e-privados\obj\Debug\aula-12-orientacao-a-objetos-publicos-e-privados.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\aula-12-orientacao-a-objetos-publicos-e-privados\aula-12-orientacao-a-objetos-publicos-e-privados\obj\Debug\aula-12-orientacao-a-objetos-publicos-e-privados.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\aula-12-orientacao-a-objetos-publicos-e-privados\aula-12-orientacao-a-objetos-publicos-e-privados\obj\Debug\aula-12-orientacao-a-objetos-publicos-e-privados.exe
+C:\Users\nicol\source\repos\aula-12-orientacao-a-objetos-publicos-e-privados\aula-12-orientacao-a-objetos-publicos-e-privados\obj\Debug\aula-12-orientacao-a-objetos-publicos-e-privados.pdb
